@@ -11,12 +11,12 @@
       <![CDATA[Hello3]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-07-15T13:47:33 IST" name="Suite" finished-at="2022-07-15T13:47:33 IST" duration-ms="37">
+  <suite started-at="2022-07-15T18:43:39 IST" name="Suite" finished-at="2022-07-15T18:43:39 IST" duration-ms="64">
     <groups>
     </groups>
-    <test started-at="2022-07-15T13:47:33 IST" name="Test" finished-at="2022-07-15T13:47:33 IST" duration-ms="37">
+    <test started-at="2022-07-15T18:43:39 IST" name="Test" finished-at="2022-07-15T18:43:39 IST" duration-ms="64">
       <class name="test.Test2">
-        <test-method signature="tc3()[pri:0, instance:test.Test2@70e8f8e]" started-at="2022-07-15T13:47:33 IST" name="tc3" finished-at="2022-07-15T13:47:33 IST" duration-ms="1" status="PASS">
+        <test-method signature="tc3()[pri:0, instance:test.Test2@70e8f8e]" started-at="2022-07-15T18:43:39 IST" name="tc3" finished-at="2022-07-15T18:43:39 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello3]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- tc3 -->
       </class> <!-- test.Test2 -->
       <class name="test.Test1">
-        <test-method signature="tc2()[pri:0, instance:test.Test1@2e4b8173]" started-at="2022-07-15T13:47:33 IST" name="tc2" finished-at="2022-07-15T13:47:33 IST" duration-ms="1" status="PASS">
+        <test-method signature="tc2()[pri:0, instance:test.Test1@2e4b8173]" started-at="2022-07-15T18:43:39 IST" name="tc2" finished-at="2022-07-15T18:43:39 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello2]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- tc2 -->
       </class> <!-- test.Test1 -->
       <class name="test.Test0">
-        <test-method signature="tc1()[pri:0, instance:test.Test0@61230f6a]" started-at="2022-07-15T13:47:33 IST" name="tc1" finished-at="2022-07-15T13:47:33 IST" duration-ms="9" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:test.Test0@61230f6a]" started-at="2022-07-15T18:43:39 IST" name="tc1" finished-at="2022-07-15T18:43:39 IST" duration-ms="14" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello1]]>
